@@ -10,11 +10,11 @@ The recommended way to setup your development environment is to use Anaconda:
 
 3. Create a new environment for this course:
 
-`conda create --name ml-course python=3.8`
+`conda create --name dmml2 python=3.8`
 
 4. Activate this environment:
 
-`conda activate ml-course`
+`conda activate dmml2`
 
 5. Install the following packages: numpy, pandas, matplotlib, scikit-learn.
 
