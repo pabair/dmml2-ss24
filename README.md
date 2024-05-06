@@ -20,7 +20,9 @@ The recommended way to setup your development environment is to use Anaconda:
 
 `conda install numpy pandas matplotlib scikit-learn jupyter`
 
-6. Test your installation by opening a new jupyter notebook. A new browser window should open.
+6. Install Pytorch and follow the instructions [here](https://pytorch.org/get-started/locally/). You do not need the GPU support, CPU is enough.
+
+7. Test your installation by opening a new jupyter notebook. A new browser window should open.
 
 `jupyter notebook`
 
