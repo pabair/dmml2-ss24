@@ -1,5 +1,7 @@
 data/openml/
 solution/data/
+cifar_net.pth
+data/cifar10/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
