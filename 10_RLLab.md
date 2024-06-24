@@ -2,11 +2,11 @@
 
 In lab we play around with the [FrozenLake environment](https://gymnasium.farama.org/environments/toy_text/frozen_lake/) and try to learn a good policy from experience.
 
-Take a look at the file `1_FrozenLake_Random.py` to have a starting point for the following tasks:
+Take a look at the file `10_RL_Intro.py` to have a starting point for the following tasks:
 
 
 ### Task 1:
-- Install `conda install gymnasium` and execute the file from a terminal window with `python3 1_FrozenLake_Random.py`.
+- Install `conda install gymnasium` and execute the file from a terminal window with `python3 10_RL_Intro.py`.
 - Run episodes using a random policy until the agent reaches the goal (reward > 0).
 - Print how many runs it took to create a successful episode.
 - Remember the states and actions that were taken in this episode. How many actions did it take to reach the goal?
